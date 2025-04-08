@@ -1,17 +1,18 @@
-BROCOLLI AND CO
+**_BROCOLLI AND CO_**
 
 Here are the commands for using this app
 
-run:
+**run:**
 npm start
 
-build:
-npm run build:
+**build:**
+npm run build
 
-test:
+**test:**
 npm run test
 
-coverage:
-npm run coverage
+**coverage:**
+npm run test:coverage
+
 
 Created by: Gafirazi Irfandi
